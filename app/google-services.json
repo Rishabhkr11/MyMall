@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887422080629",
+    "firebase_url": "https://my-mall-rishabh.firebaseio.com",
+    "project_id": "my-mall-rishabh",
+    "storage_bucket": "my-mall-rishabh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887422080629:android:9d4105534d4af3eefcca3c",
+        "android_client_info": {
+          "package_name": "rishabh.example.mymall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887422080629-ikr7lt5u6vrhcqc3c9elnmh5it86koss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwmuSpwZC1_uU9e2DlIvrqiASbL1csug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887422080629-ikr7lt5u6vrhcqc3c9elnmh5it86koss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
